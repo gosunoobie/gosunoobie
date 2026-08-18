@@ -1,18 +1,3 @@
-
-# Chholok Dong Rai
-
-**Software Developer • Full-Stack • Cloud • GIS • AI/ML**
-
-📍 Sydney, Australia
-
-[Portfolio](https://dongrai.com/) •  
-[LinkedIn](https://chatgpt.com/c/YOUR_LINKEDIN_URL) •  
-[Email](mailto:raichholok@gmail.com)
-
----
-
-## About
-
 I'm a **Software Developer with 2+ years of professional experience** building scalable web and mobile applications across full-stack development, cloud infrastructure, payments, and GIS systems.
 
 I've worked on production platforms spanning **travel, agriculture, and environmental data**, with experience leading development teams, modernising legacy systems, improving application performance, and integrating payment and analytics infrastructure.
@@ -71,7 +56,6 @@ I'm currently pursuing a **Master of Artificial Intelligence, majoring in Data A
     
 - 🚀 Production AI/ML systems
     
-
 ---
 
 ## Courses & Certifications
@@ -84,7 +68,6 @@ I'm currently pursuing a **Master of Artificial Intelligence, majoring in Data A
     
 - AWS Lambda
     
-
 ---
 
 ## Connect
