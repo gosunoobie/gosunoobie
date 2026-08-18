@@ -1,11 +1,13 @@
 ##### Hi ! I am **Dong**
 
-**Software Developer** · 2+ years building scalable web and mobile applications across full-stack development, cloud infrastructure, payments, and GIS systems.
+I'm a **Software Developer with 2+ years of professional experience** building scalable web and mobile applications across full-stack development, cloud infrastructure, payments, and GIS systems.
+
+I've worked on production platforms spanning **travel, agriculture, and environmental data**, with experience leading development teams, modernising legacy systems, improving application performance, and integrating payment and analytics infrastructure.
 
 <!-- ===================== HERO ===================== --><div align="center"><img align="top" width="400" src="./assets/coding_boy.gif" alt="coding animation" /></div>
 
 
-Currently pursuing a **Master of Artificial Intelligence (Data Analytics)** at Western Sydney University, extending my work into machine learning, computer vision, RAG, and generative AI systems.
+I am Currently pursuing a **Master of Artificial Intelligence (Data Analytics)** at Western Sydney University, extending my work into machine learning, computer vision, RAG, and generative AI systems.
 
 • [Portfolio](https://dongrai.com/)  • [LinkedIn](https://www.linkedin.com/in/dongrai/)  • [Email](mailto:raichholok@gmail.com)
 #### 🔭 Currently Exploring
