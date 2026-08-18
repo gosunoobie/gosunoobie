@@ -1,79 +1,44 @@
+<table>
+<tr>
+<td width="60%">
+
 I'm a **Software Developer with 2+ years of professional experience** building scalable web and mobile applications across full-stack development, cloud infrastructure, payments, and GIS systems.
-
-I've worked on production platforms spanning **travel, agriculture, and environmental data**, with experience leading development teams, modernising legacy systems, improving application performance, and integrating payment and analytics infrastructure.
-
 I'm currently pursuing a **Master of Artificial Intelligence, majoring in Data Analytics, at Western Sydney University**, while expanding my work into **machine learning, computer vision, RAG, and generative AI systems**.
 
----
+### Connect
 
+• [Portfolio](https://dongrai.com/)  
+• [LinkedIn](https://www.linkedin.com/in/dongrai/)  
+• [Email](mailto:raichholok@gmail.com)
+
+</td>
+
+<td width="40%">
+
+<img src="./assets/coding_boy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 ## Technical Stack
 
-### Languages
-
-`Python` `JavaScript` `TypeScript` `C#` `C++`
-
-### Frontend
-
-`React` `Next.js` `Vue.js` `Angular` `SvelteKit` `Three.js` `Ionic` `React Native`
-
-### Backend
-
-`Django` `FastAPI` `Flask` `Node.js`
-
-### Databases & Storage
-
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `AWS S3`
-
-### AI / Machine Learning
-
-`PyTorch` `TensorFlow` `scikit-learn` `NumPy` `Pandas` `OpenCV` 
-
-### Generative AI
-
-`LangChain` `RAG` `Vector Databases`
-
-### Cloud & DevOps
-
-`AWS` `Docker` `Kubernetes` `Linux` `GitHub Actions`
-
-**AWS:** EC2 • Lambda • ECS • ALB • S3
+ **Languages** `Python` `JavaScript` `TypeScript` `C++`
+**Frontend**`React` `Next.js` `Vue.js`  `React Native`
+**Backend** `Django` `FastAPI` `Flask` `Node.js`
+**Databases & Storage**`PostgreSQL` `MySQL` `MongoDB` `Redis` `AWS S3`
+ **AI / Machine Learning**`PyTorch` `TensorFlow` `NumPy` `Pandas` `OpenCV` 
+**Generative AI**`LangChain` `RAG` `Vector Databases`
+**Cloud & DevOps**`AWS` `Docker` `Kubernetes` `Linux` `GitHub Actions`
 
 ---
-
 ## Currently Exploring
 
 - 🤖 Machine Learning & Deep Learning
-    
 - 🧠 Generative AI & LLM Applications
-    
 - 🔎 Retrieval-Augmented Generation (RAG)
-    
 - 🗃️ Vector Databases
-    
 - 👁️ Computer Vision
-    
 - ☁️ Cloud-native AI applications
-    
 - 🚀 Production AI/ML systems
-    
 ---
 
-## Courses & Certifications
-
-- Data Structures & Algorithms
-    
-- JavaScript
-    
-- AWS
-    
-- AWS Lambda
-    
----
-
-## Connect
-
-I'm interested in building software that combines **strong engineering fundamentals with AI, data, and real-world problem solving**.
-
-[Portfolio](https://dongrai.com/) •  
-[LinkedIn](https://chatgpt.com/c/YOUR_LINKEDIN_URL) •  
-[Email](mailto:raichholok@gmail.com)
