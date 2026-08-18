@@ -21,6 +21,7 @@ I am Currently pursuing a **Master of Artificial Intelligence (Data Analytics)**
     <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 </p>
+
 #### 🔭 Currently Exploring
 
 - 🤖 Machine Learning & Deep Learning
