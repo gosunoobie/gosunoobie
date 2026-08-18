@@ -22,6 +22,7 @@ I am Currently pursuing a **Master of Artificial Intelligence (Data Analytics)*
 <table>
 <tr>
 <td width="45%">
+
 🔭 Currently Exploring
 
 - 🤖 Machine Learning & Deep Learning
@@ -36,10 +37,11 @@ I am Currently pursuing a **Master of Artificial Intelligence (Data Analytics)*
 
 <td width="55%">
 
-<!-- ===================== HERO ===================== --><div align="center"><img align="top" width="400" src="./assets/coding_boy.gif" alt="coding animation" /></div>
+<!-- ===================== HERO ===================== --><div align="center"><img align="top" width="450" src="./assets/coding_boy.gif" alt="coding animation" /></div>
 </td>
 </tr>
 </table>
+
 #### 🛠️ Technical Stack
 
 **Languages**
